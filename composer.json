@@ -15,8 +15,8 @@
     "time": "2017-11-11",
     "require": {
         "php": "^5.3 || ^7 || ^8",
-        "egroupware/Exception": "^2",
-        "egroupware/Util": "^2"
+        "egroupware/exception": "^2",
+        "egroupware/util": "^2"
     },
     "suggest": {
         "ext-intl": "*"
